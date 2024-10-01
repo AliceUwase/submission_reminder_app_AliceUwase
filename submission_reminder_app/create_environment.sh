@@ -1,0 +1,20 @@
+#!/bin/bash
+mkdir submission_reminder_app
+cd submission_reminder_app/
+mkdir app/
+cd app/
+vim reminder.sh
+cd ..
+mkdir modules/
+cd modules/
+vim functions.sh
+cd ..
+mkdir assets/
+cd assets/
+vim submissions.txt
+cd ..
+mkdir config/
+cd config/
+vim config.env
+cd ..
+vim startup.sh
