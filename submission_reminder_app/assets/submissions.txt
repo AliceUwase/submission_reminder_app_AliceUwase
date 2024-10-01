@@ -1,0 +1,8 @@
+student, assignment, submission status
+herve, Shell Navigation, submitted
+Noel, Shell Navigation, not submitted
+Shalom, Shell Init, not submitted
+Iris, Individualized Coding Project, submitted
+Paul, Shell Basics, not submitted
+Cain, Shell Permissions, not submitted
+Queen, Emacs, submitted 
